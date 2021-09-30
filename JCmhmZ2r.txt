@@ -1,0 +1,142 @@
+#EXTM3U
+
+#EXTINF:-1,SKY SPORT F1
+http://wagmaott.com:8080/chemsou-adminMsav1IiqNA/wObpMgLgXR/5707
+
+#EXTINF:-1,Sky Sport F1 SD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/194722
+
+#EXTINF:-1,Sky Sport F1HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/122683
+
+#EXTINF:-1,BeIN Sport 1 EN
+http://wagmaott.com:8080/chemsou-adminMsav1IiqNA/wObpMgLgXR/7390
+
+#EXTINF:-1,BeIN Sport 2 EN
+http://wagmaott.com:8080/chemsou-adminMsav1IiqNA/wObpMgLgXR/7396
+
+#EXTINF:-1,BeIN Sport 3 EN
+http://wagmaott.com:8080/chemsou-adminMsav1IiqNA/wObpMgLgXR/7400
+
+#EXTINF:-1,BeIN Extra
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+
+#EXTINF:-1,Sky Premier League SD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/194737
+
+#EXTINF:-1,Sky Premier League HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/122689
+
+#EXTINF:-1,Sky Sport Football SD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/194725
+
+#EXTINF:-1,Sky Sport Football HD
+http://http://serivcestv.xyz:8080/3143631718254908/2598854265/194725:8080/3143631718254908/2598854265/122684
+
+#EXTINF:-1,MUTV HD
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/14970
+
+#EXTINF:-1,LALIGA TV HD
+http://wagmaott.com:8080/chemsou-adminMsav1IiqNA/wObpMgLgXR/5724
+
+#EXTINF:-1,Sky Premier League
+http://wagmaott.com:8080/chemsou-adminMsav1IiqNA/wObpMgLgXR/5699
+
+#EXTINF:-1,PREMIERSPORTS 1
+http://wagmaott.com:8080/chemsou-adminMsav1IiqNA/wObpMgLgXR/5702
+
+#EXTINF:-1,PREMIERSPORTS 2
+http://wagmaott.com:8080/chemsou-adminMsav1IiqNA/wObpMgLgXR/5703
+
+#EXTINF:-1,BT Sports 2 SD
+http://wagmaott.com:8080/chemsou-adminMsav1IiqNA/wObpMgLgXR/5721
+
+#EXTINF:-1,BT Sports 3 SD
+http://wagmaott.com:8080/chemsou-adminMsav1IiqNA/wObpMgLgXR/5722
+
+#EXTINF:-1,BT Soorts1
+http://serivcestv.xyz:8080/3143631718254908/2598854265/122671
+
+#EXTINF:-1,BT Sports 2
+http://serivcestv.xyz:8080/3143631718254908/2598854265/122672
+
+#EXTINF:-1,BT Sports 3
+http://serivcestv.xyz:8080/3143631718254908/2598854265/122673
+
+#EXTINF:-1,EURO SPORT 1
+http://serivcestv.xyz:8080/3143631718254908/2598854265/122677
+
+#EXTINF:-1,EURO SPORT 2
+http://serivcestv.xyz:8080/3143631718254908/2598854265/122678
+
+#EXTINF:-1,TSN 1
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/38044
+
+#EXTINF:-1,TSN 2
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/38045
+
+#EXTINF:-1,TSN 3
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/38046
+
+#EXTINF:-1,TSN 4
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/38047
+
+#EXTINF:-1,TSN 5
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/38048
+
+#EXTINF:-1,*******MOVIES**********
+https://
+
+#EXTINF:-1,Flix HD
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
+
+#EXTINF:-1,Prive HD
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
+
+#EXTINF:-1,STAR MOVIES
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,SKY ACTION
+http://stream.tvtap.live:8081/live/maction.stream/chunks.m3u8
+
+#EXTINF:-1,FOX MOVIE
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1,CINEMAX HD
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+
+#EXTINF:-1,CINEMAX SD
+http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
+
+#EXTINF:-1,CINEVAULT-80
+https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,HBO Comedy
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283359
+
+#EXTINF:-1,HBO HITS
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+
+#EXTINF:-1,HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+
+#EXTINF:-1,Cinemax MovieMax
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137309
+
+#EXTINF:-1,Cinemax ActionMax
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130918
+
+#EXTINF:-1,Cinemax Action HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/228586
+
+#EXTINF:-1,Animal Planet
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130904
+
+#EXTINF:-1,Discovery Channel
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137415
+
+#EXTINF:-1,Nation Geographic
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130900
+
+#EXTINF:-1,Out Door
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137279
